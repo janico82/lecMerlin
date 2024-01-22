@@ -1,5 +1,6 @@
-# lecMerlin
-AsusWRT-Merlin feature expansion that automatically enables and disables device LEDs.
+# lecMerlin - automatically control AsusWRT-Merlin LEDs
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/20ebd532514c43d38b44834ccd528bb5)](https://app.codacy.com?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+![Shellcheck](https://github.com/janico82/lecMerlin/actions/workflows/shellcheck.yml/badge.svg)
 
 ## v1.0.0
 ### Updated on 2024-01-22
