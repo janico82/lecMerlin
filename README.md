@@ -33,7 +33,7 @@ Please then follow instructions shown on-screen.
 ### Command Line
 To launch the lecMerlin menu after installation, use:
 ```sh
-lecMerlin
+sh /jffs/scripts/lecMerlin
 ```
 ```sh
 #############################################################
