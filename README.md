@@ -24,7 +24,7 @@ You must be running firmware no older than:
 Using your preferred SSH client/terminal, copy and paste the following command, then press Enter:
 
 ```sh
-/usr/sbin/curl -fsL --retry 3 "https://janico82.gateway.scarf.sh/asuswrt-merlin/master/lecMerlin.sh" -o /jffs/scripts/lecMerlin && chmod 0755 /jffs/scripts/lecMerlin && /jffs/scripts/lecMerlin install
+/usr/sbin/curl -fsL --retry 3 "https://janico82.gateway.scarf.sh/asuswrt-merlin/lecMerlin/master/lecMerlin.sh" -o /jffs/scripts/lecMerlin && chmod 0755 /jffs/scripts/lecMerlin && /jffs/scripts/lecMerlin install
 ```
 
 Please then follow instructions shown on-screen.
